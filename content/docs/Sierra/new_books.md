@@ -14,4 +14,4 @@ Use the drop-down list of Sierra functions to select _Create Lists_.  I usually 
 
 Sort the review files alphabetically by double clicking on the column heading labeled ‘Name’.
 
-![Sort entries in Sierra review file by title](image001.png)
+![Sort entries in Sierra review file by title](../image001.png)
