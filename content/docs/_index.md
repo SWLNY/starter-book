@@ -3,4 +3,4 @@ title: Docs
 type: book  # Do not modify.
 ---
 
-Procedures for the Mertz Library, Systems and Digitization Department
+Procedures for the Systems and Digitization Department at the Mertz Library

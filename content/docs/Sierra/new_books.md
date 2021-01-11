@@ -7,7 +7,6 @@ date: "2021-01-10T20:14:00+01:00"
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
 ---
-###Procedure to Refresh the Recently Added Books lists###
 
 Sign in to the Sierra Desktop Application (SDA) on your Windows machine.  This can be done from your office PC or remotely using VPN access.
 
@@ -15,4 +14,4 @@ Use the drop-down list of Sierra functions to select _Create Lists_.  I usually 
 
 Sort the review files alphabetically by double clicking on the column heading labeled ‘Name’.
 
-
+![Sort entries in Sierra review file by title](/images/image001.png)
