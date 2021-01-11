@@ -3,6 +3,7 @@ title: New Book Lists
 linktitle: New Book Lists
 type: book
 date: "2021-01-10T20:14:00+01:00"
+author: "Susan Lynch"
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
